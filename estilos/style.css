@@ -44,7 +44,7 @@ section#redes-sociais{
 }
 
 section#redes-sociais > a > img{
-   width: 50px; 
+   width: 42px; 
    border-radius: 50%;
    margin: 10px;
    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.371);
@@ -54,7 +54,7 @@ section#redes-sociais > a > img{
 section#redes-sociais img:hover{
     border: 2px solid rgba(255, 255, 255, 0.64);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.408);
-    transform: translate(-3px, -3px);
+    transform: translate(-2px, -2px);
     transition: transform .3s;
 
 }
